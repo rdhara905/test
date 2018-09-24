@@ -2,7 +2,12 @@ new file master
 
 
 -----------------------
+<<<<<<< HEAD
 #Updated file from local repository
+=======
+Updated file from localrepo
+#new update
+>>>>>>> b7ef8c73ff2f4669d912d61366ec1a2a21a2d4cd
 
 ------------------------
 #Updated from remote repository (master)
